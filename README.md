@@ -125,3 +125,26 @@ https://6928423eb35b4ffc5014e22c.mockapi.io/clientes
 - Validación de datos en formularios
 - Confirmación antes de eliminar registros
 - Manejo de errores en peticiones HTTP
+
+## Prompt utilizado
+
+Quiero que por favor crees el siguiente caso de estudio, donde me respondas con lo aprendido con tus propias palabras. Posterior a eso, te daré unas nuevas instrucciones. Aqui está eI contexto: Se está aplicando a un puesto de analista de datos en TrendGear, una tienda en línea ficticia que vende dispositivos tecnológicos. Dicha empresa utiliza técnicas especiales de marketing y dispone de gran cantidad de información sobre sus clientes el admin solo tiene 2 apartados, la principal que es una bienvenida y la segunda que es un apartado de administración donde se pueda hacer CRUD de datos de los clientes (modificar cada cliente, registrarlo,etc), modula todo de forma ordenada, usa solamente de manera obligatoria JavaScript, css y html no puedes usar ninguna otra tecnología, y dame por separado cada uno, o sea un index.html, un styles.css y un script.js mantén buenas practicas.
+
+Debe quedar 100% funcional, que funciones el eliminar, el agregar, el guardar,etc.
+Querio que uses la siguiente paleta de colores: 1B4079 4D7C8A 7F9C96 8FAD88 CBDF90, quiero que incluyas sombras, degrades, iluminación, quiero una pagina moderna y fresca con toques elegantes y limpios, que no se vea muy cargada pero que tampoco se vea vacia, que sea muy dinámica con el usuario, mejora al maximo la UX/UI
+Datos se van a tomar de mi mokapi es el siguiente: 6928423eb35b4ffc5014e22c.mockapi.io/clientes
+La estructura del los clientes en mokapi en formato json es: 
+
+{
+    "nombre": "nombre 1",
+    "edad": 7,
+    "genero": "genero 1",
+    "pais": "pais 1",
+    "tipo_dispositivo": "tipo_dispositivo 1",
+    "metodo_pago": "metodo_pago 1",
+    "monto_compra": 34,
+    "fecha_compra": 1764250959,
+    "categoria_producto": "categoria_producto 1",
+    "descuento_usado": false,
+    "id_cliente": "1"
+  },
