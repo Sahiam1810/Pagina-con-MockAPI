@@ -1,4 +1,4 @@
-# 📘 Proyecto de Pagina hecha con IA e implementacion de mockAPI
+# Pagina hecha con IA e implementacion de mockAPI
 
 **Autor:** Sahiam Valentina Esteban  
 **Institución:** Campuslands  
