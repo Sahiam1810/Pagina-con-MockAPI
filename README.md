@@ -121,7 +121,7 @@ https://6928423eb35b4ffc5014e22c.mockapi.io/clientes
 - Estados de carga para mejor experiencia de usuario
 
 
-### Seguridad
+## Seguridad
 - Validación de datos en formularios
 - Confirmación antes de eliminar registros
 - Manejo de errores en peticiones HTTP
